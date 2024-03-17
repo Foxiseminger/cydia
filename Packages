@@ -33,11 +33,11 @@ Maintainer: Coolbooter
 Depends: firmware (>7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.coolbooter.coolbooter-1.5-release.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
+Size: 27961
+MD5sum: 5cfe299e7b2b8211cffbac77d695807b
 Description: *idk the description lol*
 Name: Old Package
 Author: Coolbooter
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Depiction: foxiseminger.github.io/cydia/depictions/?p=com.coolbooter.coolbooter
 
 
